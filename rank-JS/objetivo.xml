@@ -1,0 +1,22 @@
+
+
+Faça um programa que classifica o Rank com
+Vitórias e derrotas de um jogador, 
+depois disso retorne o resultado para uma variável, o saldo 
+de Rankeadas deve ser feotp através do calculo (vitórias - derrotas)
+
+
+
+Se Vitórias for menor que 10 = Ferro
+Se Vitórias for entre 11 e 20 = Bronze
+Se Vitórias for entre 21 e 50 = Prata
+Se Vitórias for entre 51 e 80 = Ouro
+Se Vitórias for entre 81 e 90 = Diamante
+Se Vitórias for entre 91 e 100 = Lendário
+Se Vitórias for maior ou igual a 101 = Imortal
+
+
+# Saída
+Ao final, deve se exibir uma mensagem:
+"O Héroi tem saldo de ${salvoVitórias} esta no nivel de ${nivel}"
+
