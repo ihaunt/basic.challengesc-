@@ -1,0 +1,36 @@
+
+
+
+Classes e Objetos
+
+Crie uma classe generica que represente um herói de uma aventura
+e que possua as seguiantes propriedades:
+
+•Nome
+•Idade
+•Tipo (ex:gerreiro, mago, monge, ninja)
+
+além disso, deve ter um método chamado atacar que deve atender os seguintes requisitos:
+
+
+metodo - atack
+
+- exibir mensagem
+`o ${tipo} atacou usando ${ataque}`
+ - aonde o {tipo} deve ser concatenando o tipo que esta na propriedade da classe
+
+
+ - e no {ataque} deve seguir uma descrição diferente o tipo, seguindo a tabela abaixo:
+ se mago - {ataque} usou magia
+ se geurreiro - {ataque} usou espada
+ se monge - {ataque} usou artes marciais
+ se ninja - {ataque} usou shuriken
+
+
+ #Saída
+
+ Ao final deve exibir uma mensagem: 
+
+ `O ${tipo} atasou usando {ataque}`
+
+
