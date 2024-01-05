@@ -2,7 +2,7 @@
 
 
 let hero = {
-    Name: 'Monk',
+    Name: ' ',
     Age: 24,
 
     type: {
@@ -52,5 +52,5 @@ class Heroi {
 }
 
 // Exemplo de uso
-let meuHeroi = new Heroi('Herói A', 30, 'Warrior');
+let meuHeroi = new Heroi('Herói A', 30, 'Ninja');
 meuHeroi.atacar();
